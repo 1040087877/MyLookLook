@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyLook</string>
+    <string name="about_text" translatable="false">感谢对项目的支持和关注,项目会不断的升级更新,如果小主感兴趣欢迎一起来贡献,有好的想法也可以随时发email给我.</string>
+    <string name="email" translatable="false">1040087877@qq.com</string>
+
+    <string name="transition_topnew" translatable="false">topnewsimage</string>
+    <string name="transition_topnew_linear" translatable="false">topnewlinear</string>
+    <string name="snack_infor">请检查网络</string>
+</resources>
